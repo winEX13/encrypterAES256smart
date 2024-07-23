@@ -1,0 +1,3 @@
+mode: MODE_CBC
+default-slice-size: 131072
+hash: sha512
